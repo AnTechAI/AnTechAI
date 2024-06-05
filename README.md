@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Quoc An</h1>
-<h3 align="center">A passionate AI and Data Science from Vietnam</h3>
+I'm majoring Computer Science at Ton Duc Thang University. Aspiring AI and Data Science fields with a strong foundation in 
+computer science principles and hands-on experience in machine 
 
 - 🌱 I’m currently learning **NLP**
 
