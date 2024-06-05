@@ -2,15 +2,9 @@
 I'm majoring Computer Science at Ton Duc Thang University. Aspiring AI and Data Science fields with a strong foundation in 
 computer science principles and hands-on experience in machine 
 
-- 🌱 I’m currently learning **NLP**
+- I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [github/AnTechIT](github/AnTechIT)
-
-- 💬 Ask me about **Python, Pytorch, Machine Learning and Deep Learning**
-
-- 📫 How to reach me **quocan1203it@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/annnit1203/](https://www.linkedin.com/in/annnit1203/)
+- All of my projects are available at [github/AnTechIT](github/AnTechIT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
