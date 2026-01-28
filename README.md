@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Quoc An</h1>
-I'm majoring Computer Science at Ton Duc Thang University. Aspiring AI and Data Science fields with a strong foundation in 
-computer science principles and hands-on experience in machine 
-
-- I’m currently learning **NLP**
+AI Engineer specializing in Natural Language Processing, Large Language Models (LLMs), and Agentic AI 
+systems. Experienced in designing multi-agent architectures, retrieval-augmented generation (RAG) pipelines, 
+and state-aware AI applications. Passionate about building scalable, safe, and user-centered intelligent assistants
 
 - All of my projects are available at [github/AnTechIT](github/AnTechIT)
 
