@@ -1,9 +1,73 @@
-<h1 align="center">Hi 👋, I'm Tran Quoc An</h1>
-AI Engineer specializing in Natural Language Processing, Large Language Models (LLMs), and Agentic AI 
-systems. Experienced in designing multi-agent architectures, retrieval-augmented generation (RAG) pipelines, 
-and state-aware AI applications. Passionate about building scalable, safe, and user-centered intelligent assistants
+# 👋 Hi, I'm Tran Quoc An
 
-- All of my projects are available at [github/AnTechIT](github/AnTechIT)
+🎓 Computer Science graduate | 🤖 AI Engineer (NLP, LLMs, Agentic AI)  
+📍 Ho Chi Minh City, Vietnam  
+
+🔗 GitHub: https://github.com/AnTechAI  
+
+---
+
+## 🚀 About Me
+
+I am an **AI Engineer** specializing in **Natural Language Processing, Large Language Models (LLMs), and Agentic AI systems**.  
+I enjoy designing **multi-agent architectures**, **retrieval-augmented generation (RAG)** pipelines, and **state-aware AI applications** that solve real-world problems.
+
+My interests include:
+- Agent-based AI systems  
+- LLM orchestration & tool use  
+- Retrieval grounding & hallucination reduction  
+- Scalable and safe AI assistants  
+
+---
+
+## 🧠 Core Expertise
+
+- **AI & Agentic Systems:**  
+  Machine Learning, Deep Learning, LLMs, Prompt Engineering, AI Agents, RAG  
+
+- **Engineering & Deployment:**  
+  Python, FastAPI, TensorFlow  
+  AWS Fundamentals (EC2, SageMaker, Bedrock)  
+
+- **Frameworks & Tools:**  
+  LangChain, LangGraph  
+  Google Agent Development Kit (ADK)  
+  Model Context Protocol (MCP)  
+
+---
+
+## 💼 Experience
+
+### AI Engineer Intern — *TMA Solutions Group*  
+**Jul 2025 – Dec 2025**
+
+- Developed an **LLM-powered medical assistant** for chronic disease management using **agentic AI architecture**  
+- Designed a **root agent** to handle user interaction and coordinate specialized agents  
+- Built **goal management** and **daily check-in agents** to collect user profiles and store daily health data  
+- Integrated a **retrieval tool** to ground responses using historical health records  
+- Orchestrated multi-agent workflows with **Google ADK** and optimized structured data storage  
+- Evaluated LLM workflows to ensure **accuracy, safety, and usability**
+
+---
+
+## 📌 What I’m Currently Learning
+
+- Advanced **multi-agent coordination patterns**
+- **LLM evaluation** and reliability techniques
+- Cloud-based deployment for agentic AI systems
+- Model Context Protocol (MCP) & agent interoperability
+
+---
+
+## 📫 Contact
+
+- 📧 Email: quocan1203it@gmail.com  
+- 🔗 GitHub: https://github.com/AnTechAI  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,5 +75,22 @@ and state-aware AI applications. Passionate about building scalable, safe, and u
 <a href="https://fb.com/https://www.facebook.com/annn.emsi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/annn.emsi/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🧠 AI & Agentic Systems
+
+![LLMs](https://img.shields.io/badge/LLMs-NLP-blue)
+![RAG](https://img.shields.io/badge/RAG-Retrieval-green)
+![AI%20Agents](https://img.shields.io/badge/AI%20Agents-Multi--Agent-orange)
+
+### 🛠️ Frameworks & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" />
+</p>
+
+![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-green)
+![ADK](https://img.shields.io/badge/Google%20ADK-Agent-orange)
+![MCP](https://img.shields.io/badge/MCP-Protocol-purple)
