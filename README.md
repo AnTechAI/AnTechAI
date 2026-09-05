@@ -39,8 +39,7 @@ whoami:
 
 ### ⚔️ AI Coding Arena
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/battle-arena.svg" width="100%"/>
-
+<img src="./battle-arena.svg" width="100%"/>
 </div>
 
 <div align="center">
