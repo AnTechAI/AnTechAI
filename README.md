@@ -17,7 +17,7 @@
 ```yaml
 whoami:
   name: "An"
-  role: "AI Engineer Intern @ Concentrix"
+  role: "AI Engineer @ Abbott"
   focus:
     - LLM fine-tuning (SFT / ORPO / GRPO)
     - ASR pipelines cho tiếng Việt
