@@ -1,96 +1,110 @@
-# 👋 Hi, I'm Tran Quoc An
+<div align="center">
 
-🎓 Computer Science graduate | 🤖 AI Engineer (NLP, LLMs, Agentic AI)  
-📍 Ho Chi Minh City, Vietnam  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=An%20%E2%9C%A6%20AI%20Engineer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fine-tuning%20LLMs%20%7C%20Building%20Voice%20AI%20%7C%20Multi-Agent%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-🔗 GitHub: https://github.com/AnTechAI  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+An+%F0%9F%91%8B;AI+Engineer+%40+Concentrix;LLM+Fine-tuning+%7C+ASR+%7C+Multi-Agent;Training+models+to+understand+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" />
 
----
+</div>
 
-## 🚀 About Me
+<br>
 
-I am an **AI Engineer** specializing in **Natural Language Processing, Large Language Models (LLMs), and Agentic AI systems**.  
-I enjoy designing **multi-agent architectures**, **retrieval-augmented generation (RAG)** pipelines, and **state-aware AI applications** that solve real-world problems.
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-My interests include:
-- Agent-based AI systems  
-- LLM orchestration & tool use  
-- Retrieval grounding & hallucination reduction  
-- Scalable and safe AI assistants  
+### ✦ Về tôi
 
----
+```yaml
+whoami:
+  name: "An"
+  role: "AI Engineer Intern @ Concentrix"
+  focus:
+    - LLM fine-tuning (SFT / ORPO / GRPO)
+    - ASR pipelines cho tiếng Việt
+    - Multi-agent systems
+  currently_building: "EnsureQC — hệ thống QC & coaching
+                        tự động cho telesales bằng AI"
+  languages: ["Tiếng Việt 🇻🇳", "English 🇬🇧"]
+  status: "🟢 đang train model lúc này"
+```
 
-## 🧠 Core Expertise
+</td>
+<td width="40%" valign="top">
 
-- **AI & Agentic Systems:**  
-  Machine Learning, Deep Learning, LLMs, Prompt Engineering, AI Agents, RAG  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-- **Engineering & Deployment:**  
-  Python, FastAPI, TensorFlow  
-  AWS Fundamentals (EC2, SageMaker, Bedrock)  
+</td>
+</tr>
+</table>
 
-- **Frameworks & Tools:**  
-  LangChain, LangGraph  
-  Google Agent Development Kit (ADK)  
-  Model Context Protocol (MCP)  
+<div align="center">
 
----
+### ✦ Đang làm gì
 
-## 💼 Experience
+</div>
 
-### AI Engineer Intern — *TMA Solutions Group*  
-**Jul 2025 – Dec 2025**
+<table align="center">
+<tr>
+<td width="50%">
 
-- Developed an **LLM-powered medical assistant** for chronic disease management using **agentic AI architecture**  
-- Designed a **root agent** to handle user interaction and coordinate specialized agents  
-- Built **goal management** and **daily check-in agents** to collect user profiles and store daily health data  
-- Integrated a **retrieval tool** to ground responses using historical health records  
-- Orchestrated multi-agent workflows with **Google ADK** and optimized structured data storage  
-- Evaluated LLM workflows to ensure **accuracy, safety, and usability**
+**🎧 EnsureQC**
+Hệ thống QC & coaching tự động cho telesales Abbott (Ensure, Glucerna, Similac, Pediasure) — pipeline ASR → LLM scoring → ORPO retraining, chạy 50 cuộc gọi/ngày.
 
----
+</td>
+<td width="50%">
 
-## 📌 What I’m Currently Learning
+**🔍 Sale Pattern Explorer**
+Pipeline multi-agent trích xuất đặc trưng hành vi từ ~1,000 bản ghi telesales, phân tích thống kê bằng logistic regression & SHAP.
 
-- Advanced **multi-agent coordination patterns**
-- **LLM evaluation** and reliability techniques
-- Cloud-based deployment for agentic AI systems
-- Model Context Protocol (MCP) & agent interoperability
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-## 📫 Contact
+### ✦ Công nghệ
 
-- 📧 Email: quocan1203it@gmail.com  
-- 🔗 GitHub: https://github.com/AnTechAI  
+<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,docker,git,linux,fastapi,vscode&theme=dark" />
 
----
+<br><br>
 
-⭐ *Feel free to explore my repositories and connect with me!*
+![Unsloth](https://img.shields.io/badge/Unsloth-fine--tuning-8A2BE2?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-multi--LoRA%20serving-00A67E?style=for-the-badge)
+![TRL](https://img.shields.io/badge/TRL-SFT%20%2F%20ORPO%20%2F%20GRPO-FF6B6B?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-ASR%20%2F%20LLM-1E90FF?style=for-the-badge)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/annnit1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/annnit1203/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/annn.emsi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/annn.emsi/" height="30" width="40" /></a>
-</p>
+<br>
 
-### 🧠 AI & Agentic Systems
+<div align="center">
 
-![LLMs](https://img.shields.io/badge/LLMs-NLP-blue)
-![RAG](https://img.shields.io/badge/RAG-Retrieval-green)
-![AI%20Agents](https://img.shields.io/badge/AI%20Agents-Multi--Agent-orange)
+### ✦ GitHub Stats
 
-### 🛠️ Frameworks & Tools
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-green)
-![ADK](https://img.shields.io/badge/Google%20ADK-Agent-orange)
-![MCP](https://img.shields.io/badge/MCP-Protocol-purple)
+</div>
+
+<div align="center">
+
+### ✦ Con rắn ăn contribution graph 🐍
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+
+</div>
+
+<div align="center">
+
+### ✦ Kết nối
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-AnTechAI-yellow?style=for-the-badge)](https://huggingface.co/AnTechAI)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
