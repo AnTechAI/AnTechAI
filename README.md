@@ -39,26 +39,53 @@ whoami:
 
 <div align="center">
 
-### ✦ Đang làm gì
+### ⚔️ AI Coding Arena
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=F72585&center=true&vCenter=true&width=500&lines=Claude+Code+vs+Codex+vs+Qwen...;Ch%E1%BB%8Dn+phe+n%C3%A0o+%C4%91%C3%A2y+%3F" />
 
-<table align="center">
+<br><br>
+
+<table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-**🎧 EnsureQC**
-Hệ thống QC & coaching tự động cho telesales Abbott (Ensure, Glucerna, Similac, Pediasure) — pipeline ASR → LLM scoring → ORPO retraining, chạy 50 cuộc gọi/ngày.
+<img src="https://skillicons.dev/icons?i=anthropic" width="70"/><br>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-agentic%20%26%20precise-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+`HP ████████░░ 90`
+`ATK: Reasoning +12`
 
 </td>
-<td width="50%">
+<td align="center" width="10%">
 
-**🔍 Sale Pattern Explorer**
-Pipeline multi-agent trích xuất đặc trưng hành vi từ ~1,000 bản ghi telesales, phân tích thống kê bằng logistic regression & SHAP.
+# 🆚
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=openai" width="70"/><br>
+
+![Codex](https://img.shields.io/badge/Codex-fast%20%26%20fearless-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+`HP ███████░░░ 85`
+`ATK: Speed +15`
 
 </td>
 </tr>
 </table>
+
+<img src="https://skillicons.dev/icons?i=qwen" width="60"/><br>
+
+![Qwen](https://img.shields.io/badge/Qwen-open%20source%20challenger-6E4AFF?style=for-the-badge)
+
+`HP ████████░░ 88`   `ATK: Multilingual +20 (tiếng Việt bonus 🇻🇳)`
+
+<br>
+
+**⚡ Trọng tài:** tôi — dùng cả ba, ép chúng cày code, ASR và fine-tuning mỗi ngày cho đến khi ra kết quả tốt nhất.
+
+</div>
 
 <div align="center">
 
@@ -76,25 +103,6 @@ Pipeline multi-agent trích xuất đặc trưng hành vi từ ~1,000 bản ghi 
 </div>
 
 <br>
-
-<div align="center">
-
-### ✦ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
-<div align="center">
-
-### ✦ Con rắn ăn contribution graph 🐍
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
-
-</div>
 
 <div align="center">
 
